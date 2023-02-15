@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.bg-swicher{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(images/bg1.jpg);
+    background-size: cover;
+}
